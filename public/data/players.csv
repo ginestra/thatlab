@@ -1,7 +1,7 @@
 name,country_provenance,national_team,career_goals,career_assists,career_appearances,club_goals,club_assists,club_appearances,international_goals,international_assists,international_appearances,clubs_with_years
 Alexia Putellas,Spain,Spain,293,67,773,234,58,593,59,9,180,"RCD Espanyol (women) (2008-2010), RCD Espanyol (women) (2010-2011), Levante UD (women) (2011-2012), FC Barcelona Femení (2012-2026), London City Lionesses (2026-present)"
-Sam Kerr,Australia,Australia,232,28,645,224,25,482,8,3,163,"Perth Glory FC (W-League) (2008-2011), Sydney FC (W-League) (2012-2014), Western New York Flash (2013-2014), Perth Glory FC (W-League) (2014-2019), Sky Blue FC (2015-2017), Chicago Stars (2018-2019), Chelsea F.C. Women (2020-2026), Gotham FC (2026-present)"
-Ada Hegerberg,Norway,Norway,395,52,535,314,45,398,81,7,137,"Kolbotn Fotball (2010-2011), Kolbotn Fotball (2011-present), Stabæk Fotball (women) (2012-2013), 1. FFC Turbine Potsdam (2013-2014), OL Lyonnes (2014-present)"
+Sam Kerr,Australia,Australia,232,28,651,224,25,485,8,3,166,"Perth Glory FC (W-League) (2008-2011), Sydney FC (W-League) (2012-2014), Western New York Flash (2013-2014), Perth Glory FC (W-League) (2014-2019), Sky Blue FC (2015-2017), Chicago Stars (2018-2019), Chelsea F.C. Women (2020-2026), Gotham FC (2026-present)"
+Ada Hegerberg,Norway,Norway,395,52,537,314,45,399,81,7,138,"Kolbotn Fotball (2010-2011), Kolbotn Fotball (2011-present), Stabæk Fotball (women) (2012-2013), 1. FFC Turbine Potsdam (2013-2014), OL Lyonnes (2014-present)"
 Wendie Renard,France,France,184,15,709,145,12,516,39,3,193,OL Lyonnes (2006-present)
 Christine Sinclair,Canada,Canada,307,64,1173,278,54,790,29,10,383,"Vancouver UBC Alumni (1999-2001), Vancouver Angels (2000-present), Vancouver Whitecaps Women (2001-2002), Vancouver Whitecaps FC (women) (2006-2008), FC Gold Pride (2009-2010), Western New York Flash (2011-2012), Portland Thorns FC (2013-2024)"
 Megan Rapinoe,USA,USA,242,73,713,170,55,489,72,18,224,"Chicago Red Stars (2009-2010), Philadelphia Independence (2011-present), MagicJack (WPS) (2011-present), Sydney FC (W-League) (2011-present), Seattle Sounders Women (2012-present), Olympique Lyonnais Féminin (2013-2014), Seattle Reign FC (2013-2023)"
@@ -17,10 +17,10 @@ Fran Kirby,England,England,181,57,362,161,50,279,20,7,83,"Reading F.C. Women (20
 Pernille Harder,Denmark,Denmark,439,78,733,332,68,519,107,10,214,"Viborg FF (women) (2007-2010), AGF Fodbold (women) (2010-2012), Linköpings FC (2012-2016), VfL Wolfsburg (women) (2017-2020), Chelsea F.C. Women (2020-2023), FC Bayern Munich (women) (2023-present)"
 Alex Morgan,USA,USA,136,49,721,131,39,487,5,10,234,"West Coast FC (2008-2009), California Storm (2010-present), Pali Blues (2010-present), Western New York Flash (2011-present), Seattle Sounders Women (2012-present), Portland Thorns FC (2013-2015), Orlando Pride (2016-present), Olympique Lyonnais Féminin (2017-present), Orlando Pride (2017-2020), Tottenham Hotspur F.C. Women (2020-present), Orlando Pride (2021-present), San Diego Wave FC (2022-2024)"
 Sophia Smith,USA,USA,175,18,309,128,16,221,47,2,88,Portland Thorns (2020-present)
-Trinity Rodman,USA,USA,54,14,211,41,12,154,13,2,57,Washington Spirit (2021-present)
+Trinity Rodman,USA,USA,54,14,213,41,12,155,13,2,58,Washington Spirit (2021-present)
 Lena Oberdorf,Germany,Germany,70,8,294,51,6,204,19,2,90,"SGS Essen (2018-2020), VfL Wolfsburg (women) (2020-2024), FC Bayern Munich (women) (2024-present)"
 Millie Bright,England,England,30,5,457,24,4,348,6,1,109,"Doncaster Belles (2009-2014), → Leeds Ladies F.C. (2011-2012), Chelsea F.C. Women (2014-2026)"
 Mary Earps,England,England,0,0,414,0,0,333,0,0,81,"Leicester City W.F.C. (2009-2010), Nottingham Forest L.F.C. (2010-2011), Doncaster Rovers Belles L.F.C. (2011-2012), → Coventry United L.F.C. (2011-present), Birmingham City L.F.C. (2013-present), Bristol City W.F.C. (2014-2015), Reading F.C. Women (2016-2018), VfL Wolfsburg (women) (2018-2019), Manchester United W.F.C. (2019-2024), Paris Saint-Germain FC (women) (2024-2026), London City Lionesses (2026-present)"
 Aitana Bonmatí,Spain,Spain,164,52,459,121,44,337,43,8,122,"FC Barcelona Femení B (2014-2016), FC Barcelona Femení (2016-present)"
 Lena Goessling,Germany,Germany,109,38,621,82,33,466,27,5,155,"FC Gütersloh 2000 (2003-2006), SC 07 Bad Neuenahr (2006-2011), VfL Wolfsburg (women) (2011-2021)"
-Selma Bacha,France,France,23,43,328,14,38,222,9,5,106,OL Lyonnes (2017-present)
+Selma Bacha,France,France,23,43,330,14,38,223,9,5,107,OL Lyonnes (2017-present)
